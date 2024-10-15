@@ -1,6 +1,6 @@
 package studyplan.arrayString;
 
-public class Question443StringCompression {
+public class Q443StringCompression {
 
     public static void main(String[] args) {
         // System.out.println(compress(new char[] { 'a','a','b','b','c','c','c'}));

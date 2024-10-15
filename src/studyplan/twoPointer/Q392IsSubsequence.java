@@ -1,6 +1,6 @@
 package studyplan.twoPointer;
 
-public class Question392IsSubsequence {
+public class Q392IsSubsequence {
 
     public static void main(String[] args) {
         System.out.println(isSubsequence("abc", "ahbgdc"));

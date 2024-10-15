@@ -2,7 +2,7 @@ package studyplan.arrayString;
 
 import java.util.Stack;
 
-public class Question151ReverseWordsInString {
+public class Q151ReverseWordsInString {
 
     public static void main (String [] args) {
         System.out.println(reverseWords(" asdasd df f"));
